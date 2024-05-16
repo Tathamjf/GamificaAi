@@ -1,5 +1,28 @@
 {
-    "cases": [
-        
-    ]
+  "cases": [
+    {
+      "imagem": "https://unsplash.it/600/400?image=41",
+      "descricao": "Uma empresa de tecnologia lança um desafio de gamificação ondes os funcionarios devem proopr e implementar ideias inovadoras!"
+    },
+    {
+      "imagem": "https://unsplash.it/600/400?image36",
+      "descricao": "Uma empresa de consultiria cria uma narrativa interativa de gamificação para seu programa de trnamento"
+    },
+    {
+      "imagem": "https://unsplash.it/600/400?27",
+      "descricao": "Uma empresa de vendas imoplementa uma competição gamificada entre qiepes que competem pelo topo do ranking"
+    },
+    {
+      "imagem": "https://unsplash.it/600/400?34",
+      "descricao": "Uma empresa de saude promove o bem-estar dos funcionarios atravez de um desafio de gamificação de condicionamento fisico"
+    }
+  ],
+  "solicitacoes": [
+    {
+      "id": "27bc",
+      "nome": "Agatha Moreira",
+      "email": "1agatha.m.f@gmail.com",
+      "descicao": "O JavaScrip "
+    }
+  ]
 }
